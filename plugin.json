@@ -1,0 +1,36 @@
+{
+  "slug": "Holzschnabel",
+  "name": "Holzschnabel",
+  "version": "1.0.0",
+  "license": "GPL-3.0-only",
+  "brand": "Holzschnabel",
+  "author": "Jens Schulze",
+  "authorEmail": "jensschulze3000@gmail.com",
+  "authorUrl": "jensschulze3000.de",
+  "pluginUrl": "github.com/jensschulze3000/holzschnabel",
+  "manualUrl": "",
+  "sourceUrl": "github.com/jensschulze3000/holzschnabel",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Switch1",
+      "name": "Switch1",
+      "description": "github.com/jensschulze3000/holzschnabel",
+      "tags": [
+        "Switch"
+      ]
+    },
+    {
+      "slug": "Seqtrol",
+      "name": "Seqtrol",
+      "description": "github.com/jensschulze3000/holzschnabel",
+      "tags": [
+        "Clock modulator",
+        "Sample and hold",
+        "Switch",
+        "Utility"
+      ]
+    }
+  ]
+}
