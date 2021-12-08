@@ -1,5 +1,7 @@
 # Holzschnabel Modules
 
+ARCHIVED REPO, FIND THE MODULES IN [https://github.com/jensschulze/GoodSheperd](https://github.com/jensschulze/GoodSheperd)!
+
 Modules for VCV Rack
 
 I don’t know, somehow I felt the urge to start a new plugin for VCV Rack mainly because the GoodSheperd modules need an overhaul and I wanted to start on a clean slate.
